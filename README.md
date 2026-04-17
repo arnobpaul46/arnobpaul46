@@ -9,8 +9,13 @@
 
 </div>
 
-<br>
-<br>
+<p align="center">
+  A passionate <b>Full Stack Web Developer (MERN)</b> and <b>Cyber Security enthusiast</b> from Bangladesh. I love building secure, scalable web applications and constantly exploring new technologies to sharpen my skills. Currently diving deep into <b>Networking</b> and <b>Cyber Security</b> while pursuing my CSE degree.
+</p>
+
+</div>
+
+
 
 ### 👨‍💻 About Me
 ```javascript
@@ -40,20 +45,19 @@ const arnobPaul = {
 <br>
 <br>
 
-
 📊 GitHub Stats
 <br>
-<br>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arnobpaul46&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobpaul46&theme=radical&hide_border=false" alt="GitHub Streak" height="180px" />
+<img src="https://github-readme-stats.vercel.app/api?username=arnobpaul46&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="170px" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobpaul46&theme=radical&hide_border=false" alt="GitHub Streak" height="170px" />
 </p>
 <br>
 <br>
 🐍 Snake Animation
 <br>
 <p align="left">
-<img src="https://raw.githubusercontent.com/arnobpaul46/arnobpaul46/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/arnobpaul46/arnobpaul46/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 <br>
 <br>
@@ -63,9 +67,9 @@ const arnobPaul = {
 <p align="left">
 <a href="https://github.com/arnobpaul46" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/arnob-paul" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://facebook.com/arnob.paul.46" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://instagram.com/arnob.paul.46" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://twitter.com/arnobpaul46" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.facebook.com/mr.arnob.paul" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/mr.arnob.paul" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/arnobpaul46" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:arnobpaulbd@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <br>
