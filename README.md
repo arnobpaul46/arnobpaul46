@@ -1,11 +1,76 @@
-# 💫 About Me:
-# Hi there 👋, I'm Arnob Paul<br><br>🎓 CSE Student (National University)  <br>💻 Aspiring Full Stack Web Developer (MERN Stack)  <br>🌐 Currently learning Web Development from Programming Hero  <br>🔐 Interested in Networking & Cyber Security  <br><br>---<br><br>## 🚀 About Me<br>- 🌱 I’m currently learning **HTML, CSS, JavaScript, React**<br>- 🔭 I’m working on improving my **Frontend & Backend skills**<br>- 🎯 Goal: Become a skilled **Full Stack Developer**<br>- 🧠 Future Plan: Learn **Cyber Security & Networking**<br>- ⚡ Fun fact: I love exploring new technologies<br><br>---<br><br>## 🛠️ Skills<br>- 🌐 HTML | CSS | Tailwind CSS  <br>- ⚡ JavaScript (ES6+)  <br>- ⚛️ React.js (Learning)  <br>- 🛢️ MongoDB | Node.js | Express.js (Upcoming)<br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arnobpaul46/arnobpaul46/main/1773761039494.jfif" alt="Arnob Paul Banner" width="100%" />
+</p>
+
+<div align="center">
+
+# Hey there, I'm Arnob Paul 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Cyber+Security+Enthusiast;Full+Stack+Explorer;Tech+Enthusiast" alt="Typing SVG" />
+
+</div>
+
+<br>
+<br>
+
+### 👨‍💻 About Me
+```javascript
+const arnobPaul = {
+    pronouns: "He / Him",
+    education: "CSE Student at National University",
+    current_focus: "Full Stack Development at Programming Hero",
+    learning: ["HTML", "CSS", "JavaScript", "React", "Node.js", "MongoDB"],
+    interests: ["Networking", "Cyber Security", "Linux"],
+    future_goal: "Professional Full Stack Developer",
+    fun_fact: "I love exploring new technologies and solving problems!"
+};
+```
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mr.arnob.paul) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.arnob.paul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnob-paul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arnobpaul46) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnobpaulbd@gmail.com) 
+<br>
+<hr>
+<br>
+🛠 Languages & Tools
+<br>
+<br>
+<p align="left">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,figma" />
+</a>
+</p>
+<br>
+<br>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📊 GitHub Stats
+<br>
+<br>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=arnobpaul46&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobpaul46&theme=radical&hide_border=false" alt="GitHub Streak" height="180px" />
+</p>
+<br>
+<br>
+🐍 Snake Animation
+<br>
+<p align="left">
+<img src="https://raw.githubusercontent.com/arnobpaul46/arnobpaul46/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+<br>
+<br>
+
+🤝 Connect with me
+<br>
+<p align="left">
+<a href="https://github.com/arnobpaul46" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arnob-paul" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/arnob.paul.46" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://instagram.com/arnob.paul.46" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://twitter.com/arnobpaul46" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:arnobpaulbd@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+<br>
+<br>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=arnobpaul46&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
+```
