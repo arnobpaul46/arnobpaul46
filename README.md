@@ -47,11 +47,16 @@ const arnobPaul = {
 
 📊 GitHub Stats
 <br>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=arnobpaul46&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" height="170px" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobpaul46&theme=radical&hide_border=false" alt="GitHub Streak" height="170px" />
-</p>
+<table border="0">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=arnobpaul46&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170px" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobpaul46&theme=radical&hide_border=false" height="170px" />
+</td>
+</tr>
+</table>
 <br>
 <br>
 🐍 Snake Animation
