@@ -50,7 +50,7 @@ const arnobPaul = {
 <table border="0">
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=arnobpaul46&show_icons=true&theme=radical&hide_border=false&count_private=true" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnobpaul46&show_icons=true&theme=radical" height="170" />
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnobpaul46&theme=radical&hide_border=false" height="170px" />
